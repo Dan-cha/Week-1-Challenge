@@ -6,4 +6,4 @@
 3. Published year from 2019 -> 2022
 4. CSS: renamed or removed some of the classes to reflect the changes in HTML
 5. added attributes accordingly
-6. ![Alt text](/relative/path/to/screenshot of my assignment webpagte.png?raw=true "screent shot image")
+6. ![Uploading screenshot of my assignment webpagte.png…]()
